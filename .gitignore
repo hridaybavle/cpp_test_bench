@@ -1,0 +1,9 @@
+imgui.ini
+
+# - IDEs Folder
+.vscode
+*.out
+
+# - Clangd
+compile_commands.json
+.cache
